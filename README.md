@@ -6,7 +6,7 @@ En este emocionante desafío de programación, contrui mi propio Conversor de Mo
 solicitudes a la API ExchangeRate, manipulando datos JSON y, finalmente, a filtrar y mostrar las
 monedas de interés.
 
-Complentando Los siguiente Requerimientos:
+Complentando Los siguientes Requerimientos:
 
 - Configuración del Ambiente Java
 - Creación del Proyecto
@@ -32,7 +32,7 @@ Complentando Los siguiente Requerimientos:
   cd ONE_Challenge_ConversorMonedas
 ```
 
-- Crear el archivo .env emulando el .env.template yagregar las variables de Entorno
+- Crear el archivo .env emulando él .env.template yagregar las variables de Entorno
 
 ```bash
   API_KEY={YOUR_API_KEY}
