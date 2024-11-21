@@ -54,4 +54,14 @@ Complentando Los siguientes Requerimientos:
 
 ## Redes
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinchris-palomino/)
+<div align="center">
+    <a href="https://www.linkedin.com/in/martinchris-palomino/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    </a>
+</div>
+
+## Badge del Challenge
+
+<div align="center">
+    <img src="src/main/resources/Badge-Conversor.png" alt="badge">
+</div>
